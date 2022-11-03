@@ -13,3 +13,4 @@
   - [x] Create the Navbar components inside components folder
   - [x] Create our own styled components
 - [] Create and style the announcement component
+- [] Create slider component
