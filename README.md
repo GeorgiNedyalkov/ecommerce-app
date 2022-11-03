@@ -11,3 +11,4 @@
 
 - Create the Home Page inside pages folder
   - Create the Navbar components inside components folder
+  - Create our own styled components
