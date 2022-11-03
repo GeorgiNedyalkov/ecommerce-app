@@ -9,6 +9,7 @@
 
 ## Coding
 
-- Create the Home Page inside pages folder
-  - Create the Navbar components inside components folder
-  - Create our own styled components
+- [x] Create the Home Page inside pages folder
+  - [x] Create the Navbar components inside components folder
+  - [x] Create our own styled components
+- [] Create and style the announcement component

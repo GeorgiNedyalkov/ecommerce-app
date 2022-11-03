@@ -2,7 +2,6 @@ import React from "react"
 import styled from "styled-components"
 import SearchIcon from "@mui/icons-material/Search"
 import Badge from "@mui/material/Badge"
-import MailIcon from "@mui/icons-material/Mail"
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart"
 
 const Container = styled.div`
