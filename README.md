@@ -12,8 +12,9 @@
 - [x] Create the Home Page inside pages folder
   - [x] Create the Navbar components inside components folder
   - [x] Create our own styled components
-- [x] Create and style the announcement component
-- [x] Create slider component
-- [x] Create categories component
-- [x] Create product component
-- [x] Create products component
+- [x] Create and style the Announcement component
+- [x] Create Slider component
+- [x] Create Categories component
+- [x] Create Product component
+- [x] Create Products component
+- [x] Create Newsletter component
