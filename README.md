@@ -15,3 +15,5 @@
 - [x] Create and style the announcement component
 - [x] Create slider component
 - [x] Create categories component
+- [x] Create product component
+- [x] Create products component
