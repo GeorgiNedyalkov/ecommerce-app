@@ -18,3 +18,4 @@
 - [x] Create Product component
 - [x] Create Products component
 - [x] Create Newsletter component
+- [x] Create Footer component
