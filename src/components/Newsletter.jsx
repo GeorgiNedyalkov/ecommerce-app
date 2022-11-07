@@ -1,5 +1,4 @@
 import styled from "styled-components"
-import SendIcon from "@mui/icons-material/Send"
 import { Send } from "@mui/icons-material"
 
 const Container = styled.div`
