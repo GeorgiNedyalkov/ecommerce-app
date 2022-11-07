@@ -19,3 +19,6 @@
 - [x] Create Products component
 - [x] Create Newsletter component
 - [x] Create Footer component
+
+- [x] Create the Product List Page
+- [] Create the Single Product Page
