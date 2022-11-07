@@ -22,3 +22,7 @@
 
 - [x] Create the Product List Page
 - [x] Create the Single Product Page
+
+- [x] Create Register Page
+- [x] Create Login Page
+- [] Create Cart Page
