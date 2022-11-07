@@ -21,4 +21,4 @@
 - [x] Create Footer component
 
 - [x] Create the Product List Page
-- [] Create the Single Product Page
+- [x] Create the Single Product Page
