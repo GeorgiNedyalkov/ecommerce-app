@@ -25,4 +25,6 @@
 
 - [x] Create Register Page
 - [x] Create Login Page
-- [] Create Cart Page
+- [x] Create Cart Page
+
+- [] Create a Responsive Design
